@@ -15,6 +15,8 @@ A multi-modal AI web app that turns natural language disaster queries into struc
 
 <img width="2571" height="1526" alt="image" src="https://github.com/user-attachments/assets/b475df8d-1615-4527-816e-e39769516e32" />
 
+
+
 Demo · Architecture · Installation · Usage · Evaluation
 </div>
 
