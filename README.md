@@ -62,7 +62,7 @@ System Architecture
 
 Tech Stack 
 
-<img width="940" height="721" alt="image" src="https://github.com/user-attachments/assets/2f17fde0-36bb-43c8-b8e9-7f1941e4c7d6" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/2f17fde0-36bb-43c8-b8e9-7f1941e4c7d6" />
 
 Project Structure
 
@@ -138,13 +138,13 @@ Usage
 Evaluation
 Benchmarked on a held-out split of the CrisisMMD v2.0 test set:
 
-<img width="982" height="423" alt="image" src="https://github.com/user-attachments/assets/38395178-bbe3-46a6-9984-889aa3f62e00" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/38395178-bbe3-46a6-9984-889aa3f62e00" />
 
 Dataset
 CrisisMMD v2.0 — Alam, F., Ofli, F., & Imran, M. (2018). CrisisMMD: Multimodal Twitter Datasets from Natural Disasters. ICWSM.
 Coverage: 7 disasters · 18,126 tweets · 11,522 images
 
-<img width="835" height="635" alt="image" src="https://github.com/user-attachments/assets/8864862a-6e7d-4f3e-89e6-dd8cd54feb1d" />
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/8864862a-6e7d-4f3e-89e6-dd8cd54feb1d" />
 
 API Reference
 POST /parse
